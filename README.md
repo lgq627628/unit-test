@@ -1,4 +1,4 @@
-# test
+# unit-test
 
 ## Project setup
 ```
